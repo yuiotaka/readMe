@@ -9,10 +9,7 @@ function Aboutme() {
         <>
           
             <Mydetail />
-           <Footer />
-          
-            
-                
+           <Footer />  
 
         </>
     );

@@ -21,7 +21,7 @@ function Card() {
                         src ='images/img-22.jpg'
                         text="My portfolio"
                         label ='Read more'
-                        path='/socialMedia'
+                        path='/article'
                         />
 
 

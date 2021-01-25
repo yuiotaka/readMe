@@ -3,10 +3,11 @@ import '../App.css';
 import { Button } from './Button';
 import './HeroSection.css';
 
+
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/video-1.mp4' autoPlay loop muted />
+      <video src='videos/video-1.mp4' autoPlay loop muted />
       <h1>Yui Otaka</h1>
       <p>Welcome to my page!</p>
       <div className='hero-btns'>
